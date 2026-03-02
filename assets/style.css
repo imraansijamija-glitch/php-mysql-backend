@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    min-height: 100vh;
+}
+
+.container {
+    background: white;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
+
+h3 {
+    font-weight: 700;
+}
+
+.table th {
+    background-color: #2a5298;
+    color: white;
+}
+
+.btn-primary {
+    background-color: #2a5298;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #1e3c72;
+}
